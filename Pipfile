@@ -11,6 +11,11 @@ matplotlib = "==3.5.1"
 sweetviz = "==2.1.2"
 scikit-learn = "*"
 seaborn = "*"
+statsmodels = "*"
+fastapi = "*"
+uvicorn = "*"
+pydantic = "*"
+pingouin = "*"
 
 [dev-packages]
 ipykernel = "*"
